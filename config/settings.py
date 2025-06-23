@@ -1,0 +1,4 @@
+APP_NAME = "AgriBourseSim"
+VERSION = "1.0.0"
+APP_LOGO = "assets/logo.png"
+DUREE_INVESTISSEMENT_YEARS = 10

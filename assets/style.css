@@ -1,0 +1,11 @@
+.intro {
+    background-color: #f5f9ff;
+    border-left: 6px solid #4CAF50;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+h3 {
+    color: #006400;
+}
